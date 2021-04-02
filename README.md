@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vahidx4r4x
 - 👀 I’m interested in coding for fun
 - 🌱 I’m currently learning bash script and python
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking to collaboration
 - 📫 How to reach me Email: vahidx4r4x@gmail.com Telegram: https://t.me/VAHIDX4R4X
 
 <!---
