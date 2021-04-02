@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding for fun
 - 🌱 I’m currently learning bash script and python
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me Email: vahidx4r4x@gmail.com Telegram: <a href="t.me/VAHIDX4R4X"</a>
+- 📫 How to reach me Email: vahidx4r4x@gmail.com Telegram: https://t.me/VAHIDX4R4X
 
 <!---
 vahidx4r4x/vahidx4r4x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
