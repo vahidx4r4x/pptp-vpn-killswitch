@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Bash Script file is not executable! use `sudo bash pptp-vpn-killswitch.sh` to run script.
+Bash Script file is not executable! use ` wget https://git.io/JYig8 -O pptp-vpn-killswitch.sh && sudo bash pptp-vpn-killswitch.sh` to download and run script.
 
 Option #1: Shows current `iptables` rules 
 
