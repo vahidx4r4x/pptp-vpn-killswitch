@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 Bash Script file is not executable! use `sudo bash pptp-vpn-killswitch.sh` to run script.
 
-Option #1: Shows current `iptales` rules 
+Option #1: Shows current `iptables` rules 
 
 Option #2: Ask for VPN IP Address and turns Killswitch ON
 
-Option #3: Resets `iptales` back to default settings
+Option #3: Resets `iptables` back to default settings
