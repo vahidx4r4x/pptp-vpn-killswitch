@@ -8,3 +8,6 @@
 vahidx4r4x/vahidx4r4x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Bash Script file is not executable! use `sudo bash pptp-vpn-killswitch.sh` to run script.
