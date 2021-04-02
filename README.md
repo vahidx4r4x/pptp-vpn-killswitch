@@ -18,4 +18,4 @@ Option #1: Shows current `iptables` rules
 
 Option #2: Ask for VPN IP Address and turns Killswitch ON
 
-Option #3: Resets `iptables` back to default settings
+Option #3: Resets `iptables` back to default settings and turns Killswitch OFF
